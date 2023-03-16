@@ -47,10 +47,10 @@
     "tsup": "^6.5.0",
     "tsconfig": "workspace:*",
     
-    "arnoschn-auth-helpers-shared": "workspace:*"
+    "arnoschn-auth-helpers-shared": "file://./../shared/"
   },
   "dependencies": {
-    "arnoschn-auth-helpers-shared": "workspace:*"
+    "arnoschn-auth-helpers-shared": "file://./../shared/"
   },
   "peerDependencies": {
     "@sveltejs/kit": "^1.1.0",
