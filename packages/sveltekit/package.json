@@ -45,7 +45,9 @@
     "tslib": "^2.4.0",
     "typescript": "^4.7.4",
     "tsup": "^6.5.0",
-    "tsconfig": "workspace:*"
+    "tsconfig": "workspace:*",
+    
+    "arnoschn-auth-helpers-shared": "workspace:*"
   },
   "dependencies": {
     "arnoschn-auth-helpers-shared": "workspace:*"
