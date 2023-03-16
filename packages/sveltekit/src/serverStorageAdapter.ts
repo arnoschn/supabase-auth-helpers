@@ -2,7 +2,7 @@ import {
   CookieOptions,
   parseSupabaseCookie,
   stringifySupabaseSession
-} from '@supabase/auth-helpers-shared';
+} from 'arnoschn-auth-helpers-shared';
 import { RequestEvent } from '@sveltejs/kit';
 import { GoTrueClientOptions, Session } from '@supabase/supabase-js';
 
