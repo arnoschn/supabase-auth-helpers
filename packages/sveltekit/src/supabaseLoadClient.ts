@@ -2,7 +2,7 @@ import {
   CookieOptions,
   isBrowser,
   SupabaseClientOptionsWithoutAuth
-} from '@supabase/auth-helpers-shared';
+} from 'arnoschn-auth-helpers-shared';
 import {
   AuthChangeEvent,
   createClient,
