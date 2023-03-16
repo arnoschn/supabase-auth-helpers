@@ -5,7 +5,7 @@ import {
   parseSupabaseCookie,
   serializeCookie,
   stringifySupabaseSession
-} from '@supabase/auth-helpers-shared';
+} from 'arnoschn-auth-helpers-shared';
 import { Session, GoTrueClientOptions } from '@supabase/supabase-js';
 
 export function supabaseAuthStorageAdapterSveltekitLoad({
