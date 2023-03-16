@@ -1,7 +1,7 @@
 import {
   CookieOptions,
   SupabaseClientOptionsWithoutAuth
-} from '@supabase/auth-helpers-shared';
+} from 'arnoschn-auth-helpers-shared';
 import { createClient } from '@supabase/supabase-js';
 import { RequestEvent } from '@sveltejs/kit';
 import { supabaseAuthStorageAdapterSveltekitServer } from './serverStorageAdapter';
